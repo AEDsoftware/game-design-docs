@@ -1,0 +1,37 @@
+Reputation
+When you arrive in or spend significant time in a resistance camp, roll+reputation. On a 10+, choose two. On a 7-9, choose one. On a miss, you're tasked with a mission.
+* You're tasked with a mission
+* Gain 1-supply
+* You'll be fed and housed for up to a week
+* You'll receive prompt and skilled medical care if you need it
+
+When you arrive in or spend significant time in an allied town, roll+reputation. On a 10+, choose three. On a 7-9, choose two. On a miss, still choose one.
+* Gain 2-supply
+* Gain 1-supply
+* You'll be fed and housed for up to a month
+* You'll receive prompt and skilled medical care if you need it
+* You're visited by friends, family, allies, or admirers
+
+When you arrive in or spend significant time in an area controlled by loyalists, roll+reputation. On a 10+, the loyalists might come for you, openly or in the night, so be prepared. On a 7-9, choose one and gain 1-supply. On a miss, you've gone unnoticed for now; gain 1-supply.
+* You've got to stay unseen and unnoticed, working in shadows or night
+* You've got few friends here, unable to resupply or sustain yourself for long
+* There are sympathetic parties here, but getting their aid might be dangerous
+* You're here with friends, putting them at risk
+
+Trust
+When you aid or interfere with a PC, say how and roll+trust. On a hit, give them +1 or -1 to their roll. On a 10+, also give them +1 or -1 forward. On a miss, take -1-forward.
+
+Supplies
+When you tend wounds, roll+supplies-spent and give them at least an hour or two of rest. On a 12+, erase one harm segment. On a 10+, choose one. On a 7-9, choose two. On a miss, choose three.
+* They'll only heal one if they get good rest for a day
+* They'll only heal one if they get good rest for a few days
+* They'll only heal one if someone attends them while they heal
+* They'll heal but it might reopen, get infect, or otherwise worsen
+
+When you tend wounds and they don't have time to rest, spend a few minutes and 1-supply and roll. On a 7+, it won't get worse for now and is stabilized. On a miss, it might get worse.
+
+Hope
+When you send a letter to a friend or family member, tell the MC what you're seeking from them and roll+hope.
+When you send a letter to an ally, tell the MC what you're seeking from them and roll+hope.
+When you send a letter to a neutral party, tell the MC what you're seeking from them and roll+hope.
+When you send a letter to an enemy, tell the MC what you're seeking from them and roll+hope.

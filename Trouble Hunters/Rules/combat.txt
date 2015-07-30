@@ -1,0 +1,17 @@
+Combat
+
+You can't easily open fire against someone who's in close combat with you, unless they have no interest in or ability to stop you (if so, just do your harm). If you open fire against another PC, they make their coming under fire roll first (which you can interfere with), then you make your open fire roll (which they can interfere with). If you open fire on someone and they fire back, you come under fire yourself. If you come under fire and fire back, you open fire.
+
+In close combat with another PC, you'll usually alternate committing to fight, starting with whoever commits first and going back and forth until the situation changes enough to stop it.
+
+Harm is ranked 0+. Armor is ranked +0, +1, +2, +3. When you suffer harm, subtract your armor from the harm rating to get your harm taken.
+
+0-harm is bare fists, rocks, blunt improvised weapons
+1-harm is sharp improvised weapons, crap bows, most thrown weapons, and small intentional weapons
+2-harm is large or heavy melee weapons, good bows, weak firearms
+3-harm is a well-made firearm
+
+0-armor is clothing
+1-armor is heavy fur, leather, or hide
+2-armor is real armor - pretty rare
+3-armor is exceptional or supernatural protection

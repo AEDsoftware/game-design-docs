@@ -1,0 +1,50 @@
+Angry
+When you threaten someone, say the consequences and what you want from them. They can immediately give you what you want; otherwise, commit to the consequences and roll+angry. On a 10+, they choose: cave and give you what you want, or force your hand and suffer the consequences. On a 7-9, instead ask them if they can block, defer, or protect themselves from the consequences; if they can, they can. On a miss, instead ask them if they can turn your threat against you; if they can, they can.
+
+When you commit to fight up close, pick an objective (to disarm them, to get past them, to get your hands on them, to knock them down or back, to injure them, or one of your own) and ask them if they care if they get hurt. If they're not willing to take the blows, you achieve your objective. If they are, roll+angry and plan to trade harm (do your harm to them and take their harm). On a 10+, choose three. On a 7-9, choose two. On a miss, say if you falter or back off; if you don't, take their harm (don't do harm) and pick one.
+* Can you avoid or deflect their harm? If so, say how and take -1-harm.
+* Can you inflict grievous wounds against them or twist the knife? If so, say how and do +1-harm.
+* Can you achieve your objective? If so, say how and do it.
+* Can you achieve a secondary objective (frighten your enemies, impress your allies, gain a positional advantage, or one of your own)? If so, say how and do it.
+
+Cunning
+When you manipulate someone, first offer something they want and what you want from them, then ask if the terms are acceptable. If they say yes, proceed with the exchange. If they say maybe, roll+cunning. If they say no, roll+cunning but treat a 10+ as a 7-9. On a 10+, they accept the deal and you proceed. On a 7-9, they choose one:
+* They accept the deal and you proceed.
+* They tell you something they'd take instead for what you want. If you agree, proceed with the new exchange.
+* They offer to do something else you might like, in exchange for what you've offered. If you agree, proceed with the new exchange.
+* They tell you what's in the way of them doing it; if you remove those obstacles, they'll do it.
+
+When you stop to plan, say what you hope to accomplish and roll+cunning. On a hit, the MC will highlight one or more tasks you'll need to accomplish in order to complete your goal. On a 7-9, give 1-hold to every PC present. On a 10+, give 3-hold to every PC present. A PC can spend hold for +1 to a roll as long as they're following the plan.
+
+When you catch someone by surprise, roll+cunning. On a 10+, you have a chance to act before they can react and still back away. On a 7-9, choose: back away now or take your action and open yourself to a reaction. On a miss, ask them how they could turn your position against you. If they can, they can.
+
+Driven
+When you assess your current position, lay out any number of questions for the MC, then roll+driven. On a 7-9, he'll answer at least one truthfully, then neglect or give misleading answers for the rest. On a 10+, he'll answer at least one truthfully and neglect the rest. On a miss, he'll neglect to answer, give misleading answers, or answer truthfully as he pleases.
+
+When you open fire, list your targets and roll+driven. On a 10+, do your harm to them or choose one. On a 7-9, choose one. On a miss, your gun might jam, misfire, backfire, or you might be out of ammo, or your aim might fail you, or another of the MC's choice. Ask the MC which happens.
+* You've pinned them down; if they leave their position while you sustain fire, they'll suffer harm.
+* You've flushed them out; if they stay in their position while you sustain fire, they'll suffer harm.
+* You've opened them to your allies; so how and where. If they focus on protecting themselves from your allies, they'll suffer harm.
+* You've used yourself as bait; if they fire back or advance at you, they'll suffer harm.
+
+When you go off the roads, the MC will ask if you've been this way and when. If it's recent enough, the MC will say and you can pick as many options as you'd like. Otherwise, roll+driven. On any result, you can make your way through. On a 10+, choose three. On a 7-9, choose two.
+* You know about or can find any potential pitfalls or dangers well in advance.
+* You know about or can find a useful natural feature (food source, shelter, clean water, hiding spot, or one of your own) in the area.
+* You know or can master the trails and paths enough to track anyone or anything that might follow.
+* You know or can master the trails and paths enough to evade pursuit of anyone who might follow.
+* You know or can find shortcuts and easy paths allowing you to reach your destination ahead of schedule.
+
+Resolved
+When you act despite danger, the MC will say what the danger is, and you should say how you attempt to circumvent, resist, or endure it. If that's enough, the MC will say so. Otherwise, roll+resolved. On a 10+, you avoid or ignore the danger. On a 7-9, the MC will offer you a hard bargain or painful choice. On a miss, you suffer the full expression of the danger.
+
+When you suffer harm, roll+resolved-harm. On a 12+, it's not as bad as it looks; take -1-harm. On a 10+, and the MC can choose one, but if he does, you take -2-harm. On a 7-9, take the harm, and the MC can choose one, but if he does, you take -1-harm. On a miss, take the harm and the MC will choose one.
+
+When you come under fire say whether you plan to dig in, fall back, or advance, and state your cover (if any). Then, roll+resolved. On any result, if you have good cover (ask the MC), take +1-armor. On a 10+, choose three. On a 7-9, choose two.
+* Whatever they do, they can't pin you down.
+* Whatever they do, they can't flush you out.
+* Whatever they do, they can't open you to their allies.
+* If you fire back, you do +1-harm.
+* If they do harm, take -1-harm.
+
+Tainted
+When you listen to whispers in the dark, roll+tainted. On a hit, the MC will tell you something new and interesting about your situation. On a 10+, it'll be clear and vibrant; on a 7-9, it'll be impressions and curiosities.

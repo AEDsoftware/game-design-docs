@@ -1,0 +1,19 @@
+Darkpriest
+Angry +1 Cunning +0 Driven +0 Resolved -1 Tainted +1
+Hope -2
+Reputation +0
+Moves (Pick two)
+Infernal Powers: Gain +1-tainted.
+
+Infamous Warlock: Gain +1-tainted. When you arrive in or spend significant time in an area controlled by loyalists, roll+3.
+
+Evil Eyes: When you gaze into someone's eyes, treat it as a threat but roll+tainted. They need to see your eyes but you don't need to communicate. If they force your hand, they take 1-harm ap.
+
+Death-friend: When you suffer harm, roll+tainted-harm.
+
+Burning Touch: When you lay hands on someone, it's a weapon (1-harm hand). If your tainted is greater than +1, the harm equals your tainted instead.
+
+Dark Temptation: You can transfer your supernatural powers to another person. When you tempt someone with supernatural power, roll+tainted to manipulate them. What you offer is the use of one mantle move for an hour, a day, a week, a month, a year, or a decade.
+
+Gear / Supplies
+History / Trust

@@ -1,0 +1,19 @@
+Captain
+Angry -1 Cunning +1 Driven +1 Resolved +0 Tainted +0
+Hope -2
+Reputation -1
+Moves (Pick two)
+Noted Leader: You gain +1-reputation; if this brings your reputation to +0, instead set your reputation to +1.
+
+Indomitable Presence: When you give an order to an NPC subordinate, roll+driven. On a hit, they follow to the best of their ability. On a miss, they might misunderstand, falter, delay, change course, follow their own plan, or disobey; ask the MC which, if any, happens. When you give an order to a PC subordinate, ask first if they'll accept without question. If they don't, roll+driven. On a 10+, if they disobey, they take -1-ongoing until they make it up to you. On a 7-9, if they disobey, they take -1-forward. Regardless, if they listen and it goes well, you both gain +1-trust with each other.
+
+Well-Supported: When you take on a mission for the rebellion, gain +1-supply.
+
+Lead From The Front: When you put yourself in harm's way for someone else, take -1-harm if you take harm.
+
+Inspirational: When you aid a PC, roll+driven and, on a 10+, give them +2 instead of +1.
+
+Cruel and Cold: When you threaten someone, roll+clever.
+
+Gear / Supplies
+History / Trust

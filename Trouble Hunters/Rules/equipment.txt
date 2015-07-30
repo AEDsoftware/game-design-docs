@@ -1,0 +1,8 @@
+Supply
+Supply is food, bandages, building supplies, ammo, alcohol, and more.
+When you need to feed yourself for a few days or a week, you can spend 1-supply.
+When you need a common item, spend 1-supply to have it.
+When your gun runs out of ammo, spend 1-supply for more.
+When you want to build or make something, ask the MC how much supply you'll need.
+
+Equipment

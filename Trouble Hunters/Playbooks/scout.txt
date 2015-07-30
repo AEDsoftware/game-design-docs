@@ -1,0 +1,24 @@
+Scout
+Angry +0 Cunning +1 Driven +0 Resolved +1 Tainted -1
+Hope -2
+Reputation -1
+Moves (Pick two)
+Uncanny: When you go off road, roll+cunning.
+
+Sniper: When they don't even know you're there and you open fire, roll+cunning. On a 10+, do your harm to them. On a 7-9, do your harm, but they can also choose one. On a miss, you've left yourself open.
+* They can dig in, under cover or out of sight
+* They fall back or out, past your range or out of your field of view
+* They know you're there, your general range and distance
+* They take -1-harm
+
+Knife in the Dark: When you catch someone by surprise at close range, you can do your harm and then make the move, if you'd like.
+
+Scavenge: When you go off road, gain 1-supply of food, clean water, herbs, skins, furs, lumber, or the like.
+
+Borrower: When you sneak into and out of enemy territory, roll+resolved. On a miss, you're caught half-in or half-out. On a 7-9, choose one. On a 10+, choose two.
+* Gain 1-supply
+* Gain some useful information (the MC will detail)
+* Take something with you or leave something behind
+
+Gear / Supplies
+History / Trust
